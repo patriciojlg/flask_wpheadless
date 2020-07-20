@@ -1,8 +1,8 @@
 # flask_wpheadless
 ## TODO
-- [] Crear ordenes (comprar producto) [POST]
-  - Recuperar órdenes [GET] 
-Mis (compras)
+- [ ] Crear ordenes (comprar producto) [POST]
+- [ ] Recuperar órdenes [GET] 
+  - Mis (compras)
 Mis (ventas) 
 Puntuar y comentar productos (review) [PUT]
 Comentar
